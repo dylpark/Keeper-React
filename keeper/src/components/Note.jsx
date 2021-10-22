@@ -1,13 +1,13 @@
 import React from "react";
 
-function Note() {
+function Note(props) {
   return (
     <div className="note">
       <h1 contenteditable="true" spellcheck="true">
-        Note
+        {props.title}
       </h1>
       <p contenteditable="true" spellcheck="true">
-        This is your note
+        {props.content}
       </p>
     </div>
   );
