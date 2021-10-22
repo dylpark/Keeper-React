@@ -1,7 +1,7 @@
 import React from "react";
 
 function Header() {
-  const header = "Keeper App";
+  const header = "Keeper";
 
   return (
     <header>
