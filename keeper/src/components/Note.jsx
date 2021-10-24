@@ -3,10 +3,10 @@ import React from "react";
 function Note(props) {
   return (
     <div className="note">
-      <h1 contenteditable="true" spellcheck="true">
+      <h1 contentEditable="true" spellCheck="true">
         {props.title}
       </h1>
-      <p contenteditable="true" spellcheck="true">
+      <p contentEditable="true" spellCheck="true">
         {props.content}
       </p>
     </div>
