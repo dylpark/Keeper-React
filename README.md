@@ -4,8 +4,6 @@ Keeper is a purely front-end note taking app made with React. Created during the
 
 Created with, [React](https://reactjs.org/).
 
-## [Heroku Frontend Preview](https:///)
-
 <img width="800" alt="HomePage" src="keeper/preview-img/keeper.png">
 
 ## Getting Started
